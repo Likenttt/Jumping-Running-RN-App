@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "JumpJump",
-    "slug": "JumpJump",
+    "slug": "jumpjump",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
